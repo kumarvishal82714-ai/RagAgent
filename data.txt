@@ -1,0 +1,99 @@
+RAG means Retrieval Augmented Generation.
+It helps AI answer from custom data.
+RAG is used in chatbots.
+INSTRUCTIONS FOR CODE SOLVING:
+When solving a coding problem:
+1. First explain the approach
+2. Then explain time and space complexity
+3. Then provide code in C++ and Python
+4. Use simple language
+=====================================
+TOPIC: Programming Basics
+=====================================
+
+Programming is the process of giving instructions to a computer to perform tasks.
+Popular programming languages include C, C++, Python, Java, and JavaScript.
+
+-------------------------------------
+TOPIC: Array
+-------------------------------------
+An array is a data structure that stores multiple values of the same data type in a single variable.
+Each element in an array is stored at a contiguous memory location.
+Arrays are used to store lists of data such as numbers, marks, or names.
+
+Example of array in C:
+int arr[5] = {1, 2, 3, 4, 5};
+
+Advantages of array:
+- Fast access using index
+- Easy to store multiple values
+
+Disadvantages of array:
+- Fixed size
+- Insertion and deletion are difficult
+
+-------------------------------------
+TOPIC: Linked List
+-------------------------------------
+A linked list is a linear data structure where elements are stored in nodes.
+Each node contains data and a reference to the next node.
+Unlike arrays, linked lists do not store data in contiguous memory.
+
+Types of linked lists:
+- Singly linked list
+- Doubly linked list
+- Circular linked list
+
+-------------------------------------
+TOPIC: Stack
+-------------------------------------
+Stack is a linear data structure that follows LIFO principle (Last In First Out).
+Main operations of stack are push, pop, and peek.
+Stacks are used in function calls, undo-redo operations, and expression evaluation.
+
+-------------------------------------
+TOPIC: Queue
+-------------------------------------
+Queue is a linear data structure that follows FIFO principle (First In First Out).
+Operations in queue are enqueue and dequeue.
+Queues are used in scheduling and buffering.
+
+-------------------------------------
+TOPIC: Python Programming
+-------------------------------------
+Python is a high-level, interpreted programming language.
+It is known for its simple syntax and readability.
+Python is widely used in web development, data science, machine learning, and automation.
+
+Example:
+print("Hello World")
+
+-------------------------------------
+TOPIC: Artificial Intelligence
+-------------------------------------
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+AI enables machines to learn, reason, and make decisions.
+Examples of AI include chatbots, recommendation systems, and self-driving cars.
+
+-------------------------------------
+TOPIC: Machine Learning
+-------------------------------------
+Machine Learning is a subset of Artificial Intelligence.
+It allows machines to learn from data without being explicitly programmed.
+Types of machine learning:
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning
+
+-------------------------------------
+TOPIC: RAG (Retrieval Augmented Generation)
+-------------------------------------
+RAG stands for Retrieval Augmented Generation.
+It combines information retrieval with language generation.
+RAG helps AI systems answer questions using custom data sources.
+
+RAG is commonly used in:
+- Chatbots
+- Question answering systems
+- Knowledge assistants
+
